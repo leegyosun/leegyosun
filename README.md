@@ -1,4 +1,7 @@
-### Hi there 👋
+## introduction
+안녕하세요
+영남대를 다니고 있는 학생입니다.
+
 
 <!--
 **leegyosun/leegyosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
