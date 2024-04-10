@@ -13,7 +13,7 @@ src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=wh
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
  
- 저는 주로 Visual Styudio를 사용하고있으며 지금부터 GitHub를 공부하고 있습니다.
+ 저는 주로 Visual Studio를 사용하고있으며 지금부터 GitHub를 공부하고 있습니다.
  
 ## hobby
 저의 취미는 주로 독서와 게임입니다.
